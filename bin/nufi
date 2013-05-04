@@ -1,0 +1,6 @@
+#!/usr/bin/env python -u
+
+import nufi.main
+
+if __name__ == "__main__":
+    nufi.main.main()
