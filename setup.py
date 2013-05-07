@@ -5,8 +5,7 @@ try:
 except ImportError:
     from distutils.core import setup
 
-#from nufi import __version__ as version
-version = '0.1'
+from nufi.main import __version__ as version
 
 setup(
     name='nufi',

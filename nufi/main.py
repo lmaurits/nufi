@@ -6,6 +6,8 @@ from optparse import OptionParser
 import sys
 import nufi.basics, nufi.statistics
 
+__version__ = "20130506a"
+
 def main():
 
     parser = OptionParser()
